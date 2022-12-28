@@ -1,4 +1,4 @@
- Modified_SPI_Protocol_Using_Verilog_HDL.
+ # Modified_SPI_Protocol_Using_Verilog_HDL.
  Mid Presentation folder - it contains the ppt and report.
  Final Presentation folder - it contains the ppt and report.
  Implementation folder - it contains the codes of project.
